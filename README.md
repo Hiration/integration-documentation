@@ -1,4 +1,4 @@
-# integration OpenAPI Specification
+# resume_integration OpenAPI Specification
 [![Build Status](https://travis-ci.org/Hiration/integration-documentation.svg?branch=master)](https://travis-ci.org/Hiration/integration-documentation)
 
 ## Steps to finish

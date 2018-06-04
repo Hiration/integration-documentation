@@ -1,9 +1,9 @@
 {
   "generator-openapi-repo": {
     "importExistingSpec": false,
-    "name": "integration",
+    "name": "resume_integration",
     "repo": "Hiration/integration-documentation",
-    "splitSpec": true,
+    "splitSpec": false,
     "samples": true,
     "installSwaggerUI": true
   }
